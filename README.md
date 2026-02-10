@@ -8,6 +8,10 @@
    + [Cortix Tech](https://cortix.tech/), Training & Certification
    + Licensed under the Cortix Tech Courseware & Sample Code License (CT-CSL) v1.0 — see LICENSE.
 
+|  |  |
+|:--:|:--:|
+| <img width="350" src="notebooks/images/domain.png" title="Sketch"> | <img width="550" src="notebooks/images/solution.png" title="Criticality"> |
+
 This site will be in construction during this semester.
 
 This course uses Jupyter Notebooks in Python programming language. The content can be accessed in the following ways:
